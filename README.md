@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on e-commerce project<br>🌱 I’m currently learning  python (django) & javascript, in general web development<br>💬 Ask me about anything <br>⚡fact, i hate java
+🔭 I’m currently working on e-commerce project<br>🌱 I’m currently learning  python (django) & javascript, in general web development<br>💬 Ask me about anything <br>
 
 
 ## 🌐 Socials:
